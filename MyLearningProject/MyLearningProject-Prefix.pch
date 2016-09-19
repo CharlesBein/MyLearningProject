@@ -1,0 +1,19 @@
+//
+//  MyLearningProject-Prefix.pch
+//
+
+#ifndef MyLearningProject_Prefix
+#define MyLearningProject_Prefix
+
+/**
+ *  启动debug模式 0是验收环境，1是联调环境
+ */
+#define COM_DEBUG_MODE 0
+
+
+#import "DefinePublic.h"
+
+#endif /* public_pch */
+
+
+
